@@ -1,0 +1,6 @@
+{
+  "name": "Pastelhook Atelier - Bespoke Crochet Heirlooms & Haute Console",
+  "description": "Discreet luxury bespoke handmade crochet creations, archival gallery, fiber stories, and confidential atelier owner management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
